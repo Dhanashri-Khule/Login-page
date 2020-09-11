@@ -1,0 +1,66 @@
+body{
+    background: url('../images/macro_flower_twig_pink_white_4578_1366x768.jpg');
+    background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
+
+.heading{
+    margin: 3% auto 0 auto;
+    font-family: 'Noto Serif', serif;
+    font-size: 2.2rem;
+    color: rgb(77, 14, 102);
+}
+
+
+#intro-section{
+    margin: 5% 0 0 3%;
+    font-family: 'Lobster Two', cursive;
+    text-align: left;
+}
+
+.tagline{
+    color: rgb(238, 125, 241);
+    margin-left: 20px;
+    font-size: 1.5rem;
+}
+
+.intro-heading{
+    font-size: 5rem;
+    color: rgb(227, 64, 233);
+    text-shadow: 4px 4px 2px rgb(191, 48, 196);
+}
+
+#login-section{
+    width: 90%;
+    margin:5% 10% 2% auto;
+    border-radius: 7px;
+}
+
+.card{
+    background-color: transparent;
+}
+
+.form-row{
+    margin: 0;
+}
+
+.form-group{
+    padding-bottom: 2%;
+}
+
+
+.alternate-login{
+    font-size: 1.2rem;
+}
+
+.login-btn{
+    width: 60%;
+    border-radius: 25px;
+}
+
+.icon{
+    margin: 3%;
+}
+
